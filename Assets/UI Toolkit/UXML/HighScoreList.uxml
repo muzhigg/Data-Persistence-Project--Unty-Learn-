@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/StyleSheets/HighScoreListStyle.uss?fileID=7433441132597879392&amp;guid=01c0915e044779a48b02c381a2401155&amp;type=3#HighScoreListStyle" />
+    <ui:VisualElement name="list-container" />
+    <ui:Button text="Back To Menu" display-tooltip-when-elided="true" name="back-button" />
+</ui:UXML>
